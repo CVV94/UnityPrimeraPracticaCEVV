@@ -1,0 +1,39 @@
+# Carpeta de bibliotecas generada por Unity
+Library/
+
+# Carpeta de caché generada por Unity
+[Oo]bj/
+[Tt]emp/
+[ Ll]ogs/
+
+# Archivos de generación de proyecto de Unity
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# Carpeta de compilación generada por Visual Studio
+.vscode/
+
+# Carpeta de compilación generada por Rider
+.idea/
+
+# Archivo de configuración de Rider
+.idea/
+
+# Archivo de configuración de Visual Studio
+.vs/
+
+# Archivo de configuración de Rider para Unity
+*.sln.iml
+
+# Carpeta de caché de Rider para Unity
+.Rider/
+
+# Carpeta de compilación generada por MonoDevelop
+[Ee]xported[Oo]bj/
